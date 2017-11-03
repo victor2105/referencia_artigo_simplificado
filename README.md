@@ -7,7 +7,7 @@
   - Abra o google scholar (Acadêmico)
     - Link: https://scholar.google.com/
     
-    1. Existe o google scholar mundial e o brasileiro. Se o artigo é em inglês, procure no google scholar mundial.
+    - Existe o google scholar mundial e o brasileiro. Se o artigo é em inglês, procure no google scholar mundial.
     
   - Cole o nome do artigo na área de busca do google scholar e clique em buscar (ou aperte a tecla ENTER).
   
@@ -26,7 +26,7 @@
   - Abra o google scholar (Acadêmico)
     - Link: https://scholar.google.com/
     
-    1. Existe o google scholar mundial e o brasileiro. Se o artigo é em inglês, procure no google scholar mundial.
+    - Existe o google scholar mundial e o brasileiro. Se o artigo é em inglês, procure no google scholar mundial.
     
   - Cole o nome do artigo na area de busca do google scholar e clique em buscar (ou aperte a tecla ENTER).
   
