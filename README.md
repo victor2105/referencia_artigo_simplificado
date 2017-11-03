@@ -1,6 +1,7 @@
 # Como conseguir referências
-## Tutorial
-### LaTeX.
+
+## Tutorial LaTeX.
+
   - Copie o nome do artigo.
     - Ex: GTKDynamo: a PyMOL plug-in for QC/MM hybrid potential simulations
     
@@ -19,7 +20,8 @@
     
   - Copie o texto e cole no seu arquivo de referência
 
-### Microsoft Word/LibreOfice
+## Tutorial Microsoft Word/LibreOfice
+
   - Copie o nome do artigo.
     - Ex: GTKDynamo: a PyMOL plug-in for QC/MM hybrid potential simulations
     
